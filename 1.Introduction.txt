@@ -1,0 +1,24 @@
+Hello,
+    My Name is Kiran Ghorpade.I recently graduated with a "B.Sc. in Computer Science (Entire)" abbreviated as "B.C.S"
+from Sadguru Gadage Maharaj College, Karad an Affiliated to the Shivaji University, Kolhapur. I achieved an 
+aggregate percentage of 88.27 in my studies, demonstrating my dedication to academic execellence.
+    I came from a small village in Satara district, where I developed an appreciation for hard work and perseverance.
+Growing up in that environment i learn how to deal with problems and importance of practical knowledge.
+    During my studies, I undertook a challenging academic project titled "ADRASHA - Alternative Digital Registry For ASHA"
+I played a key role in this project, where I utilized my knowledge of C# programming , .NET Framework, Concepts of OOP, Data Structures,
+to develop User Interface and connecting application with integrated database Sqlite. It was an exiting opportunity
+that allowed me to apply my theoretical knowledge and problems-solving skills in a practical setting.
+    Outside of academics, I have a range of hobbies that keep me motivated and balanced. I enjoy to play both Computer games and
+Outdoor sports as it allow me to develop qualities like teamwork and initiative and Reasoning Ability. Additionally, it gives me 
+opportunity to explore new perspectives and engage with diverse environment. I don't like to waste time as it does not align with
+with my values.
+    One of my key strength is my ability to adapt quickly to new environments and learn from challengs. I am a fast learner and 
+thrive in dynamic situations that require problem-solving and teamwork. Moreover, I am a highly organized individual, which helps
+me manage my time effectively and prioritize task to meet deadlines.
+    As for weaknesses, I acknowledge that I am sometimes overly critical of my own work. However, I have been actively working
+on embracing constructive feedback and using it as an opportunity for growth. I believe that self-awareness is crucial for personal
+development and continuously strive to improve myself.
+    In summay, I am an enthusiastic and dedicated fresh graduate with strong education background, a passion fro learning, and 
+a commitment to making a positive impact. I am exited about the potential to contribute my skills and perspective to your organization 
+and eager to embark on this new chapter in my career.
+
