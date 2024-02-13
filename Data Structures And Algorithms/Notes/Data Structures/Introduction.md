@@ -1,6 +1,6 @@
 # Introduction To Data Structure
 
-- [Go to Index](index)
+- [Go to Index][index]
 - [Previous][previous]
 - [Next][next]
 
